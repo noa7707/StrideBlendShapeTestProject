@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame.Windows\\MyGame.Windows.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame.Windows\\MyGame.Windows.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame.Windows\\MyGame.Windows.csproj",
+        "projectName": "MyGame.Windows",
+        "projectPath": "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame.Windows\\MyGame.Windows.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame.Windows\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Shadow\\AppData\\Local\\Stride\\NugetDev": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame\\MyGame.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame\\MyGame.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame\\MyGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame\\MyGame.csproj",
+        "projectName": "MyGame",
+        "projectPath": "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame\\MyGame.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Desktop\\MyGame\\MyGame\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Shadow\\AppData\\Local\\Stride\\NugetDev": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Stride.Core.Assets.CompilerApp": {
+              "include": "Build, BuildTransitive",
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            },
+            "Stride.Engine": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            },
+            "Stride.Navigation": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            },
+            "Stride.Particles": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            },
+            "Stride.Physics": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            },
+            "Stride.UI": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            },
+            "Stride.Video": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

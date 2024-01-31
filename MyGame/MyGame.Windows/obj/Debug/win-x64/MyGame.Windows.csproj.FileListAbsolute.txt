@@ -1,0 +1,16 @@
+C:\Users\Shadow\Desktop\MyGame\Bin\Windows\Debug\win-x64\MyGame.Windows.exe
+C:\Users\Shadow\Desktop\MyGame\Bin\Windows\Debug\win-x64\MyGame.Windows.deps.json
+C:\Users\Shadow\Desktop\MyGame\Bin\Windows\Debug\win-x64\MyGame.Windows.runtimeconfig.json
+C:\Users\Shadow\Desktop\MyGame\Bin\Windows\Debug\win-x64\MyGame.Windows.dll
+C:\Users\Shadow\Desktop\MyGame\Bin\Windows\Debug\win-x64\MyGame.Windows.pdb
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.AssemblyInfoInputs.cache
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.AssemblyInfo.cs
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.csproj.CopyComplete
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.dll
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\refint\MyGame.Windows.dll
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.pdb
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\MyGame.Windows.genruntimeconfig.cache
+C:\Users\Shadow\Desktop\MyGame\MyGame.Windows\obj\Debug\win-x64\ref\MyGame.Windows.dll

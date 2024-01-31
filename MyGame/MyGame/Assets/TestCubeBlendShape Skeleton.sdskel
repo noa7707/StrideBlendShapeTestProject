@@ -1,0 +1,11 @@
+!Skeleton
+Id: 40e98c48-d60e-411c-97bf-c9864697f828
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../../SHAPES_FBX/TestCubeBlendShape.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Nodes:
+    8bed19240fbb4953df8596e1d48d481f: {Name: RootNode, Depth: 0}
+    6bda68ced795663fc741409f9fb6d224: {Name: Cube, Depth: 1}
+~SourceHashes:
+    5f2fa9da7431a8f3b31a785784e5c980~../../../SHAPES_FBX/TestCubeBlendShape.fbx: bb96d3041977661589ad789deedbe732

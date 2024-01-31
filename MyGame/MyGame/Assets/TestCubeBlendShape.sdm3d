@@ -1,0 +1,15 @@
+!Model
+Id: e5228efa-a733-429f-83a3-ab687b3c44de
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../../SHAPES_FBX/TestCubeBlendShape.fbx
+Skeleton: 40e98c48-d60e-411c-97bf-c9864697f828:TestCubeBlendShape Skeleton
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    18fbfe35733b8508f6c5fe979a8837fb:
+        Name: Material
+        MaterialInstance:
+            Material: null
+Modifiers: {}
+~SourceHashes:
+    ec5f30007127f211de17d168e2f217b1~../../../SHAPES_FBX/TestCubeBlendShape.fbx: bb96d3041977661589ad789deedbe732
